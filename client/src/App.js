@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import {BrowserRouter as Router, Route} from 'react-router-dom';
-import NavBar from './components/layouts/NavBar';
-import Footer from './components/layouts/Footer';
-import Landing from './components/layouts/Landing';
+import NavBar from './components/layout/NavBar';
+import Footer from './components/layout/Footer';
+import Landing from './components/layout/Landing';
 import Register from './components/auth/Register';
 import Login from './components/auth/Login';
 import './App.css';
